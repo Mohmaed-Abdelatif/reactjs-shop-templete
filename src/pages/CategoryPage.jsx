@@ -33,6 +33,56 @@ const CategoryPage = () => {
               </div>
             </div>
             </Link>
+          <Link to="/details/df">
+            <div class="product-card">
+              <img class="product-image" src={product1} alt="Gray Sweater" />
+              <div class="add-to-cart-icon"><CiShoppingCart /></div>
+              <div class="product-info">
+                <p class="product-name">Gray Sweater</p>
+                <p class="product-price">$50.00</p>
+              </div>
+            </div>
+            </Link>
+          <Link to="/details/df">
+            <div class="product-card">
+              <img class="product-image" src={product1} alt="Gray Sweater" />
+              <div class="add-to-cart-icon"><CiShoppingCart /></div>
+              <div class="product-info">
+                <p class="product-name">Gray Sweater</p>
+                <p class="product-price">$50.00</p>
+              </div>
+            </div>
+            </Link>
+          <Link to="/details/df">
+            <div class="product-card">
+              <img class="product-image" src={product1} alt="Gray Sweater" />
+              <div class="add-to-cart-icon"><CiShoppingCart /></div>
+              <div class="product-info">
+                <p class="product-name">Gray Sweater</p>
+                <p class="product-price">$50.00</p>
+              </div>
+            </div>
+            </Link>
+          <Link to="/details/df">
+            <div class="product-card">
+              <img class="product-image" src={product1} alt="Gray Sweater" />
+              <div class="add-to-cart-icon"><CiShoppingCart /></div>
+              <div class="product-info">
+                <p class="product-name">Gray Sweater</p>
+                <p class="product-price">$50.00</p>
+              </div>
+            </div>
+            </Link>
+          <Link to="/details/df">
+            <div class="product-card">
+              <img class="product-image" src={product1} alt="Gray Sweater" />
+              <div class="add-to-cart-icon"><CiShoppingCart /></div>
+              <div class="product-info">
+                <p class="product-name">Gray Sweater</p>
+                <p class="product-price">$50.00</p>
+              </div>
+            </div>
+            </Link>
         </div>
       </div>
     </section>
