@@ -32,7 +32,7 @@ const CategoryPage = () => {
                 <p class="product-price">$50.00</p>
               </div>
             </div>
-            </Link>
+          </Link>
           <Link to="/details/df">
             <div class="product-card">
               <img class="product-image" src={product1} alt="Gray Sweater" />
@@ -42,7 +42,7 @@ const CategoryPage = () => {
                 <p class="product-price">$50.00</p>
               </div>
             </div>
-            </Link>
+          </Link>
           <Link to="/details/df">
             <div class="product-card">
               <img class="product-image" src={product1} alt="Gray Sweater" />
@@ -52,7 +52,7 @@ const CategoryPage = () => {
                 <p class="product-price">$50.00</p>
               </div>
             </div>
-            </Link>
+          </Link>
           <Link to="/details/df">
             <div class="product-card">
               <img class="product-image" src={product1} alt="Gray Sweater" />
@@ -62,7 +62,7 @@ const CategoryPage = () => {
                 <p class="product-price">$50.00</p>
               </div>
             </div>
-            </Link>
+          </Link>
           <Link to="/details/df">
             <div class="product-card">
               <img class="product-image" src={product1} alt="Gray Sweater" />
@@ -72,7 +72,7 @@ const CategoryPage = () => {
                 <p class="product-price">$50.00</p>
               </div>
             </div>
-            </Link>
+          </Link>
           <Link to="/details/df">
             <div class="product-card">
               <img class="product-image" src={product1} alt="Gray Sweater" />
@@ -82,7 +82,7 @@ const CategoryPage = () => {
                 <p class="product-price">$50.00</p>
               </div>
             </div>
-            </Link>
+          </Link>
         </div>
       </div>
     </section>
